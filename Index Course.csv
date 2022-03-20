@@ -1,0 +1,270 @@
+1	FURTHER TRIGONOMETRY	17
+A	Reciprocal trigonometric functions	18
+B	Inverse trigonometric functions	20
+C	Algebra with trigonometric functions	23
+D	Double angle identities	27
+E	Compound angle identities	31
+Review set IA	38	
+Review set 1B	39	
+2	EXPONENTIAL FUNCTIONS	41
+A	Rational exponents	42
+B	Algebraic expansion and factorisation	44
+C	Exponential equations	47
+D	Exponential functions	49
+E	Growth and decay	54
+F	The natural exponential	60
+Review set 2A	64	
+Review set 2B	65	
+3	LOGARITHMS	67
+A	Logarithms in base 10	68
+B	Logarithms in base a	71
+C	Laws of logarithms	73
+D	Natural logarithms	76
+E	Logarithmic equations	80
+F	The change of base rule	81
+G	Solving exponential equations using logarithms	82
+H	Logarithmic functions	87
+Review set 3A	92	
+Review set 3B	94	
+4	INTRODUCTION TO COMPLEX NUMBERS	97
+A	Complex numbers	99
+B	The sum of two squares factorisation	101
+C	Operations with complex numbers	102
+D	Equality of complex numbers	104
+E	Properties of complex conjugates	106
+Review set 4A	107	
+Review set 4B	108	
+5	REAL POLYNOMIALS	109
+A	Polynomials	110
+B	Operations with polynomials	111
+C	Zeros, roots, and factors	114
+D	Polynomial equality	117
+E	Polynomial division	120
+F	The Remainder theorem	124
+G	The Factor theorem	127
+H	The Fundamental Theorem of Algebra	128
+I	Sum and product of roots theorem	131
+J	Graphing cubic functions	133
+K	Graphing quartic functions	139
+L	Polynomial equations	143
+M	Cubic inequalities	145
+Review set 5A	146	
+Review set 5B	148	
+6	FURTHER FUNCTIONS	151
+A	Even and odd functions	152
+B	The graph of y=[f(x)]^2	154
+C	Absolute value functions	156
+D	Rational functions	164
+E	Partial fractions	169
+Review set 6A	171	
+Review set 6B	172	
+7	COUNTING	175
+A	The product principle	176
+B	The sum principle	178
+C	Factorial notation	179
+D	Permutations	181
+E	Combinations	186
+Review set 7A	190	
+Review set 7B	191	
+8	THE BINOMIAL THEOREM	193
+A	Binomial expansions	194
+B	The binomial theorem for n belongs to Z +	198
+C	The binomial theorem for n belongs Q	202
+Review set 8A	206	
+Review set 8B	207	
+9	REASONING AND PROOF	209
+A	Logical connectives	212
+B	Proof by deduction	213
+C	Proof by equivalence	217
+D	Definitions	219
+E	Proof by exhaustion	222
+F	Disproof by counter example	223
+G	Proof by contrapositive	225
+H	Proof by contradiction: reductio ad absurdum	227
+Review set 9A	230	
+Review set 9B	231	
+10	PROOF BY MATHEMATICAL INDUCTION	233
+A	The process of induction	234
+B	The principle of mathematical induction	237
+Review set 10A	251	
+Review set 10B	252	
+11	LINEAR ALGEBRA	253
+A	Systems of linear equations	255
+B	Row operations	257
+C	Solving 2x2 systems of linear equations	259
+D	Solving 3x3 systems of linear equations	261
+Review set 11A	266	
+Review set 11B	267	
+12	VECTORS	269
+A	Vectors and scalars	270
+B	Geometric operations with vectors	273
+C	Vectors in the plane	279
+D	The magnitude of a vector	281
+E	Operations with plane vectors	282
+F	Vectors in space	285
+G	Operations with vectors in space	287
+H	Vector algebra	289
+I	The vector between two points	290
+J	Parallelism	296
+K	The scalar product of two vectors	299
+L	The angle between two vectors	301
+M	Proof using vector geometry	307
+N	The vector product of two vectors	309
+Review set 12A	318	
+Review set 12B	320	
+13	VECTOR APPLICATIONS	323
+A	Lines in 2 and 3 dimensions	324
+B	The angle between two lines	328
+C	Constant velocity problems	330
+D	The shortest distance from a point to a line	333
+E	Intersecting lines	336
+F	Relationships between lines	338
+G	Planes	345
+H	Angles in space	353
+1	Intersecting planes	355
+Review set 13A	360	
+Review set 13B	363	
+14	COMPLEX NUMBERS	367
+A	The complex plane	368
+B	Modulus and argument	371
+C	Geometry in the complex plane	375
+D	Polar form	379
+E	Euler's form	386
+F	De Moivre's theorem	388
+G	Roots of complex numbers	392
+Review set 14A	395	
+Review set 14B	396	
+15	LIMITS	399
+A	Limits	401
+B	The existence of limits	404
+C	Limits at infinity	406
+D	Trigonometric limits	409
+E	Continuity	410
+Review set 15A	413	
+Review set 15B	413	
+16	INTRODUCTION TO DIFFERENTIAL CALCULUS	415
+A	Rates of change	417
+B	Instantaneous rates of change	420
+C	The gradient ofa tangent	423
+D	The derivative function	424
+E	Differentiation from first principles	426
+F	Differentiability and continuity	430
+Review set 16A	432	
+Review set 16B	433	
+17	RULES OF DIFFERENTIATION	435
+A	Simple rules of differentiation	436
+B	The chain rule	441
+C	The product rule	444
+D	The quotient rule	446
+E	Der'ivatives of exponential functions	449
+F	Derivatives of logarithmic functions	454
+G	Derivatives of trigonometric functions	457
+H	Der•ivatives of inverse trigonometric functions	461
+I	Second and higher derivatives	463
+J	Implicit differentiation	466
+Review set 17A	469	
+Review set 17B	471	
+18	PROPERTIES OF CURVES	475
+A	Tangents	476
+B	Normals	483
+C	Increasing and decreasing	485
+D	Stationary points	489
+E	Shape	494
+F	Inflection points	497
+G	Understanding functions and their der'ivatives	502
+H	L'Höpital's rule	504
+Review set 18A	508	
+Review set 18B	512	
+19	APPLICATIONS OF DIFFERENTIATION	517
+A	Rates of change	518
+B	Optimisation	524
+C	Related rates	533
+Review set 19A	538	
+Review set 19B	540	
+20	INTRODUCTION TO INTEGRATION	543
+A	Approximating the area under a curve	544
+B	The Riemann integral	547
+C	Antidifferentiation	551
+D	The Fundamental Theorem of Calculus	553
+Review set 20A	558	
+Review set 20B	559	
+21	TECHNIQUES FOR INTEGRATION	561
+A	Discovering integrals	562
+B	Rules for integration	565
+C	Particular values	570
+D	Integrating f(ax+b)	571
+E	Partial fractions	576
+F	Integration by substitution	577
+G	Integration by parts	583
+Review set 21 A	585	
+Review set 21 B	587	
+22	DEFINITE INTEGRALS	589
+A	Definite integrals	590
+B	Definite integrals involving substitution	594
+C	The area under a curve	596
+D	The area above a curve	601
+E	The area between two functions	603
+F	The area between a curve and the y-axis	608
+G	Solids of revolution	610
+H	Problem solving by integration	616
+I	Improper integrals	620
+Review set 22A	623	
+Review set 22B	626	
+23	KINEMATICS	629
+A	Displacement	631
+B	Velocity	633
+C	Acceleration	640
+D	Speed	644
+Review set 23A	649	
+Review set 23B	651	
+24	MACLAURIN SERIES	653
+A	Maclaurin series	656
+B	Convergence	659
+C	Composite functions	661
+D	Addition and subtraction	663
+E	Differentiation and integration	664
+F	Multiplication	668
+G	Division	669
+Review set 24A	670	
+Review set 24B	671	
+25	DIFFERENTIAL EQUATIONS	673
+A	Differential equations	674
+B	Euler's method for numerical integration	677
+C	Differential equations of the form dy/dx = f(x)	680
+D	Separable differential equations	684
+E	Logistic growth	690
+F	Homogeneous differential equations dy/dx = f(y/x)	694
+G	The integrating factor method	696
+H	Maclaurin series developed from a differential equation	697
+Review set 25A	702	
+Review set 25B	704	
+26	BIVARIATE STATISTICS	707
+A	Association between numerical variables	708
+B	Pearson's product-moment correlation coefficient	713
+C	Line of best fit by eye	718
+D	The least squares regression line	722
+E	The regression line of x against y	729
+Review set 26A	732	
+Review set 26B	734	
+27	DISCRETE RANDOM VARIABLES	737
+A	Random variables	738
+B	Discrete probability distributions	740
+C	Expectation	745
+D	Variance and standard deviation	750
+E	Properties of ox aX + b	753
+F	The binomial distribution	756
+G	Using technology to find binomial probabilities	760
+H	The mean and standard deviation of a binomial distribution	763
+Review set 27A	765	
+Review set 27B	766	
+28	CONTINUOUS RANDOM VARIABLES	769
+A	Probability density functions	771
+B	Measures of centre and spread	774
+C	The normal distribution	778
+D	Calculating normal probabilities	782
+E	The standard normal distribution	789
+F	Normal quantiles	793
+Review set 28A	799	
+Review set 28B	800	
+ANSWERS	803	
+INDEX	910	
