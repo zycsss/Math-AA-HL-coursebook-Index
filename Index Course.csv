@@ -121,7 +121,7 @@ E	Intersecting lines	336
 F	Relationships between lines	338
 G	Planes	345
 H	Angles in space	353
-1	Intersecting planes	355
+I	Intersecting planes	355
 Review set 13A	360	
 Review set 13B	363	
 14	COMPLEX NUMBERS	367
@@ -156,10 +156,10 @@ A	Simple rules of differentiation	436
 B	The chain rule	441
 C	The product rule	444
 D	The quotient rule	446
-E	Der'ivatives of exponential functions	449
+E	Derivatives of exponential functions	449
 F	Derivatives of logarithmic functions	454
 G	Derivatives of trigonometric functions	457
-H	Der•ivatives of inverse trigonometric functions	461
+H	Derivatives of inverse trigonometric functions	461
 I	Second and higher derivatives	463
 J	Implicit differentiation	466
 Review set 17A	469	
@@ -172,7 +172,7 @@ D	Stationary points	489
 E	Shape	494
 F	Inflection points	497
 G	Understanding functions and their der'ivatives	502
-H	L'Höpital's rule	504
+H	L'Hôpital's rule	504
 Review set 18A	508	
 Review set 18B	512	
 19	APPLICATIONS OF DIFFERENTIATION	517
