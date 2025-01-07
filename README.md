@@ -5,7 +5,3 @@ This project is an attempt to add toc to Math AA HL Coursebooks and Math AA HL S
 OCR is used to translate the snap picture of "table of contents" in the beginning of the book into table-like files. Handwork is used to correct all data.
 
 PyMuPDF library is used to add toc to pdf files.
-
-Due to copyright reason, raw files cannot be put here. However, a modified copy can be downloaded [here](https://www.aliyundrive.com/s/SwJFjAKTnJV). 
-
-Notice that they are stupidly chunky. An attempt may be made to make the file smaller in size.
